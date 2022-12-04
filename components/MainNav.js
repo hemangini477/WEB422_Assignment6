@@ -46,7 +46,7 @@ export default function MainNav() {
         expanded={isExpanded}
       >
         <Container>
-          <Navbar.Brand>Duc Phong Ma</Navbar.Brand>
+          <Navbar.Brand>Hemangini Patel</Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"
             onClick={(e) => {
